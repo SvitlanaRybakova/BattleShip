@@ -5,9 +5,9 @@ public class Main {
     public static void main(String[] args) {
 	// write your code here
 
-        BattleShipsProgram newProgram = new BattleShipsProgram();
+        BattleShipsProgram newProgram1 = new BattleShipsProgram();
 
-        newProgram.start();
+        newProgram1.start();
 
     }
 }
